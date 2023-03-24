@@ -1,2 +1,1 @@
-# PNG flag movement with css and js
- 
+# Flag Waving Animation with CSS and JS
